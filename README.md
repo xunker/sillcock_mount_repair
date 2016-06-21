@@ -3,7 +3,7 @@ Mounting and repair frame for Sillcocks, outdoor taps, or outdoor faucets (OpenS
 
 Home page: https://github.com/xunker/sillcock_mount_repair
 
-Thingiverse: http://www.thingiverse.com/thing:xxx
+Thingiverse: http://www.thingiverse.com/thing:1638270
 
 ---
 
